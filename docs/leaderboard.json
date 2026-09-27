@@ -6,8 +6,8 @@
     "score"
   ],
   "direction": "maximize",
-  "evaluator_version": "v1",
+  "evaluator_version": "eval-48756b75581b24cae0072f7687dc240d",
   "rows": [],
-  "revision": 2,
-  "updated_at": "2026-09-27T15:57:00.886Z"
+  "revision": 3,
+  "updated_at": "2026-09-27T16:29:31.870Z"
 }
