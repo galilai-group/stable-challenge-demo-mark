@@ -4,7 +4,7 @@
   "description": "",
   "metric": "score",
   "direction": "maximize",
-  "evaluator_version": "eval-21384d14180f468e9a005e7986fd80a8",
+  "evaluator_version": "eval-21384d14180f468e9a005e7986fd80a8-36bef148",
   "closes_at": null,
   "anonymous": true,
   "accepting_submissions": true,

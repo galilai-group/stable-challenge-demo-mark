@@ -6,8 +6,22 @@
     "score"
   ],
   "direction": "maximize",
-  "evaluator_version": "eval-21384d14180f468e9a005e7986fd80a8",
-  "rows": [],
-  "revision": 10,
-  "updated_at": "2026-09-27T16:53:33.682Z"
+  "evaluator_version": "eval-21384d14180f468e9a005e7986fd80a8-36bef148",
+  "rows": [
+    {
+      "rank": 1,
+      "participant": "f3884a23174a11dd",
+      "participant_id": "f3884a23174a11dd",
+      "groups": [],
+      "score": 1,
+      "metrics": {
+        "score": 1
+      },
+      "status": "succeeded",
+      "submission_id": "e8d15d0368d1e8e37b2bd9a50ee6a9d6597fb8e5babb6f796dd4251a0a5871de",
+      "submitted_at": "2026-09-27T16:50:17.156Z"
+    }
+  ],
+  "revision": 11,
+  "updated_at": "2026-09-27T16:54:17.934Z"
 }
