@@ -6,7 +6,7 @@
     "score"
   ],
   "direction": "maximize",
-  "evaluator_version": "eval-ff3f2091d9c893a821957a828f3a7e15",
+  "evaluator_version": "eval-ff3f2091d9c893a821957a828f3a7e15-f092806d",
   "rows": [
     {
       "rank": null,
@@ -21,6 +21,6 @@
       "logs": "Evaluator must return a JSON object containing numeric metrics."
     }
   ],
-  "revision": 6,
-  "updated_at": "2026-09-27T16:38:24.078Z"
+  "revision": 7,
+  "updated_at": "2026-09-27T16:41:06.073Z"
 }
