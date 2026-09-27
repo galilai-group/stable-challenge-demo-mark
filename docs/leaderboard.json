@@ -6,21 +6,8 @@
     "score"
   ],
   "direction": "maximize",
-  "evaluator_version": "eval-ff3f2091d9c893a821957a828f3a7e15-b88c6892",
-  "rows": [
-    {
-      "rank": null,
-      "participant": "f3884a23174a11dd",
-      "participant_id": "f3884a23174a11dd",
-      "groups": [],
-      "score": null,
-      "metrics": {},
-      "status": "failed",
-      "submission_id": "e8d15d0368d1e8e37b2bd9a50ee6a9d6597fb8e5babb6f796dd4251a0a5871de",
-      "submitted_at": "2026-09-27T16:50:17.156Z",
-      "logs": "Evaluator must return a JSON object containing numeric metrics."
-    }
-  ],
-  "revision": 9,
-  "updated_at": "2026-09-27T16:50:48.379Z"
+  "evaluator_version": "eval-21384d14180f468e9a005e7986fd80a8",
+  "rows": [],
+  "revision": 10,
+  "updated_at": "2026-09-27T16:53:33.682Z"
 }
