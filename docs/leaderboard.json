@@ -7,7 +7,20 @@
   ],
   "direction": "maximize",
   "evaluator_version": "eval-ff3f2091d9c893a821957a828f3a7e15",
-  "rows": [],
-  "revision": 5,
-  "updated_at": "2026-09-27T16:37:55.526Z"
+  "rows": [
+    {
+      "rank": null,
+      "participant": "f3884a23174a11dd",
+      "participant_id": "f3884a23174a11dd",
+      "groups": [],
+      "score": null,
+      "metrics": {},
+      "status": "failed",
+      "submission_id": "8312c49c6a82fb558567a64e2ee6dd739abe58f1b3a12390add160894a7b7e9c",
+      "submitted_at": "2026-09-27T16:18:59.458Z",
+      "logs": "Evaluator must return a JSON object containing numeric metrics."
+    }
+  ],
+  "revision": 6,
+  "updated_at": "2026-09-27T16:38:24.078Z"
 }
